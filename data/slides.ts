@@ -236,7 +236,7 @@ export const slides: SlideData[] = [
     bullets: [
       { text: 'AI excels at recognizing patterns' },
       { text: 'AI struggles to maintain ambiguity or differentiate strategic possibilities' },
-      { title: 'Solution', text: 'Split Stage 1B → AI extracts data; humans interpret meaning' }
+      { title: 'Solution', text: 'Split Stage 1B → AI extracts data; humans \ninterpret meaning' }
     ],
      visualType: 'carousel',
     visualMeta: {
