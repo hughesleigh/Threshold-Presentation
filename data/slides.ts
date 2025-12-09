@@ -280,7 +280,7 @@ export const slides: SlideData[] = [
     link: 'https://threshold-ai.vercel.app/',
     visualType: 'split-image',
     visualMeta: {
-        image: 'https://i.ibb.co/Q3yk5dhX/Screenshot-2025-12-08-at-7-26-24-PM.png',
+        image: '/threshold-final-site.jpg',
         link: 'https://threshold-ai.vercel.app/'
     }
   },
