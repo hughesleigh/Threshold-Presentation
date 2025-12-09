@@ -76,7 +76,7 @@ export const slides: SlideData[] = [
     layout: 'standard',
     title: 'Cross-Discipline\nResearch Pattern',
     subtitle: 'The Universal 5-Stage \nCreative Cycle',
-    content: ['Found across IDEO, Pentagram, Wolff Olins, Landor:'],
+    content: ['Found across IDEO, Pentagram, \nWolff Olins, Landor:'],
     bullets: [
       { text: 'Strategy & Discovery' },
       { text: 'Conceptualization & Ideation' },
@@ -241,7 +241,7 @@ export const slides: SlideData[] = [
     subtitle: 'Model Self-Preference Bias',
     bullets: [
       { text: 'Claude consistently ranked its own outputs highest' },
-      { text: 'Confirms that evaluation and judgment must remain human-led' }
+      { text: 'Confirms that evaluation and judgment must \nremain human-led' }
     ],
     visualType: 'split-image',
     visualMeta: { image: 'https://i.imgur.com/6lpKX48.png' }
@@ -264,7 +264,7 @@ export const slides: SlideData[] = [
     id: '19',
     layout: 'split',
     title: 'Website Demo',
-    subtitle: 'A visual explanation of the five-threshold system and workflow sequence',
+    subtitle: 'A visual explanation of the \nfive-threshold system and \nworkflow sequence',
     link: 'https://threshold-ai.vercel.app/',
     visualType: 'split-image',
     visualMeta: {
