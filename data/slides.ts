@@ -149,11 +149,11 @@ export const slides: SlideData[] = [
   {
     id: '11',
     layout: 'center',
-    title: 'Case Study: The Pelvic Door',
+    title: 'Test Client: The Pelvic Door',
     subtitle: 'Healthcare Logo Design',
     content: [
       'Nuanced challenge: clinically credible and emotionally warm',
-      'Selected because this is a real client'
+      'Used to validate the workflow on a real-world branding task'
     ]
   },
   {
