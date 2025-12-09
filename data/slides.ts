@@ -83,12 +83,9 @@ export const slides: SlideData[] = [
       { text: 'Presentation & Validation' },
       { text: 'Finalization & Implementation' }
     ],
-    visualType: 'carousel',
+    visualType: 'split-image',
     visualMeta: {
-        images: [
-            '/hitl-framework-client-workflow.jpg',
-            '/hitl-universal-framework-workflow.jpg'
-        ]
+      image: 'https://i.imgur.com/hnrvI3v.png'
     }
   },
   {
@@ -103,9 +100,12 @@ export const slides: SlideData[] = [
       { text: 'Final Validation Gate' },
       { text: 'Implementation Readiness Gate' }
     ],
-    visualType: 'split-image',
+    visualType: 'carousel',
     visualMeta: {
-      image: 'https://i.imgur.com/hnrvI3v.png'
+        images: [
+            '/hitl-framework-client-workflow.jpg',
+            '/hitl-universal-framework-workflow.jpg'
+        ]
     }
   },
   {
