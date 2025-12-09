@@ -238,7 +238,15 @@ export const slides: SlideData[] = [
       { text: 'AI struggles to maintain ambiguity or differentiate strategic possibilities' },
       { title: 'Solution', text: 'Split Stage 1B → AI extracts data; humans interpret meaning' }
     ],
-    visualType: 'none'
+     visualType: 'carousel',
+    visualMeta: {
+        images: [
+            '/GPT-Logo-Concept Sketches.png',
+            '/Gemini_Generated_Image_3m8ptf3m8ptf3m8p.png',
+            '/Gemini_Generated_Image_hhlfqphhlfqphhlf.png'
+        ]
+     },
+    },
   },
   {
     id: '17',
