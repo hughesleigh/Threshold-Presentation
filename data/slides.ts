@@ -50,7 +50,7 @@ export const slides: SlideData[] = [
   {
     id: '5',
     layout: 'standard',
-    title: 'Deep Research + \nDeep Dive Integration',
+    title: 'The Deep Dive',
     subtitle: 'Assignment Context',
     bullets: [
       { title: 'Deep Research', text: 'AI capability boundaries, scholarly sources, agency workflow analysis' },
@@ -75,7 +75,7 @@ export const slides: SlideData[] = [
     id: '7',
     layout: 'standard',
     title: 'Cross-Discipline\nResearch Pattern',
-    subtitle: 'The Universal 5-Stage Creative Cycle',
+    subtitle: 'The Universal 5-Stage \nCreative Cycle',
     content: ['Found across IDEO, Pentagram, Wolff Olins, Landor:'],
     bullets: [
       { text: 'Strategy & Discovery' },
