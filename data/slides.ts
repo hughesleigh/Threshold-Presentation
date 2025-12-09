@@ -144,7 +144,8 @@ export const slides: SlideData[] = [
             '/test-protocol-chat-output.jpg',
             '/control-output-quality-scores.jpg'
         ]
-  },
+     },
+    },
   {
     id: '11',
     layout: 'center',
