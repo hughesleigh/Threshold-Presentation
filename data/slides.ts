@@ -34,7 +34,6 @@ export const slides: SlideData[] = [
       { text: 'Prompt engineering is inconsistent' },
       { text: 'Tool selection feels overwhelming' },
       { text: 'Outputs vary dramatically' },
-      { text: 'Designers unintentionally offload strategy to AI' }
     ]
   },
   {
