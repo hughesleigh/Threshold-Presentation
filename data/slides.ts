@@ -53,7 +53,7 @@ export const slides: SlideData[] = [
     subtitle: 'Assignment Context',
     bullets: [
       { title: 'Deep Research', text: 'AI capability boundaries, scholarly sources, agency workflow analysis' },
-      { title: 'Deep Dive', text: 'Framework design, Pelvic Door case study, early prototype website' },
+      { title: 'Deep Dive', text: 'Framework design, real test client, early prototype website' },
       { title: 'Integration', text: 'Research shaped the system; testing exposed gaps; iteration refined the framework' }
     ],
     visualType: 'none'
