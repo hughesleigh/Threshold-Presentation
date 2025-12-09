@@ -246,7 +246,6 @@ export const slides: SlideData[] = [
             '/Gemini_Generated_Image_hhlfqphhlfqphhlf.png'
         ]
      },
-  },
   {
     id: '17',
     layout: 'split',
