@@ -142,7 +142,7 @@ export const slides: SlideData[] = [
         images: [
             '/test-protocol-a-control-group.jpg',
             '/test-protocol-chat-output.jpg',
-            'public/control-output-quality-scores.jpg'
+            '/control-output-quality-scores.jpg'
         ]
   },
   {
