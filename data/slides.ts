@@ -21,7 +21,7 @@ export const slides: SlideData[] = [
       { text: 'AI accelerates creative work' },
       { text: 'Speed often introduces drift, clichés, or loss of nuance' },
       { text: 'Raises the question: Did I save time or lower my standards?' },
-      { text: 'Creatives feel tension between efficiency and integrity' }
+      { text: 'Creatives feel tension between efficiency and integrity' } 
     ]
   },
   {
