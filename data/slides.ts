@@ -112,7 +112,7 @@ export const slides: SlideData[] = [
   {
     id: '9',
     layout: 'standard',
-    title: 'Brief Structure Innovation',
+    title: 'Brief Structure',
     subtitle: 'Modular Brief System',
     bullets: [
       { title: 'Section A', text: 'Universal strategy inputs' },
