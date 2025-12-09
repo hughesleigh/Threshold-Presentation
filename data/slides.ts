@@ -5,7 +5,7 @@ export const slides: SlideData[] = [
   {
     id: '1',
     layout: 'title',
-    title: 'The Threshold Method',
+    title: 'Designing AI-Augmented Creative Workflows',
     subtitle: 'Intentional Checkpoints. Creative Integrity.',
     content: [
       'By Ashleigh Hughes',
