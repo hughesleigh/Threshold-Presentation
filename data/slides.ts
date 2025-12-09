@@ -137,7 +137,13 @@ export const slides: SlideData[] = [
       { title: 'Test Condition', text: 'Framework-guided workflow' },
       { title: 'Measured', text: 'Alignment, distinctiveness, quality, efficiency' }
     ],
-    visualType: 'none'
+    visualType: 'carousel',
+     visualMeta: {
+        images: [
+            '/test-protocol-a-control-group.jpg',
+            '/test-protocol-chat-output.jpg',
+            'public/control-output-quality-scores.jpg'
+        ]
   },
   {
     id: '11',
