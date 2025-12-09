@@ -264,7 +264,13 @@ export const slides: SlideData[] = [
       { text: 'Shows how the system operates' },
       { text: 'Sets up future development for spring quarter' }
     ],
-    visualType: 'none'
+     visualType: 'carousel',
+    visualMeta: {
+        images: [
+            '/threshold-site-v1.jpg',
+            '/threshold-site-v2.jpg'
+        ]
+    }
   },
   {
     id: '19',
