@@ -85,7 +85,7 @@ export const slides: SlideData[] = [
     ],
     visualType: 'split-image',
     visualMeta: {
-      image: 'https://i.imgur.com/hnrvI3v.png'
+      image: '/agency-workflow-studies.jpg'
     }
   },
   {
