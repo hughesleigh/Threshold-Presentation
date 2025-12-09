@@ -86,7 +86,7 @@ export const slides: SlideData[] = [
     visualType: 'carousel',
     visualMeta: {
         images: [
-            'https://i.ibb.co/4g4KL2Xs/Screenshot-2025-12-08-at-8-08-48-PM.png',
+            'https://github.com/hughesleigh/Threshold-Presentation/blob/5609db9667f38996b51fb72e3ef46f913679e119/public/hitl%20universal%20framework.jpg',
             'https://i.ibb.co/v6BrXKvc/Screenshot-2025-12-08-at-8-09-02-PM.png'
         ]
     }
