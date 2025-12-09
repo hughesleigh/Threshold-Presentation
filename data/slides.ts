@@ -19,7 +19,7 @@ export const slides: SlideData[] = [
     subtitle: 'The AI Paradox',
     bullets: [
       { text: 'AI accelerates creative work' },
-      { text: 'But speed often introduces drift, clichés, or loss of nuance' },
+      { text: 'Speed often introduces drift, clichés, or loss of nuance' },
       { text: 'Raises the question: Did I save time or lower my standards?' },
       { text: 'Creatives feel tension between efficiency and integrity' }
     ]
