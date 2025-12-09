@@ -86,8 +86,8 @@ export const slides: SlideData[] = [
     visualType: 'carousel',
     visualMeta: {
         images: [
-            'https://github.com/hughesleigh/Threshold-Presentation/blob/5609db9667f38996b51fb72e3ef46f913679e119/public/hitl%20universal%20framework.jpg',
-            'https://github.com/hughesleigh/Threshold-Presentation/blob/4d936ea6cf19742394b8eca0f489fda90dfd8bb9/public/hitl%20framework%20client%20workflow.jpg'
+            '/hitl-framework-client-workflow.jpg',
+            '/hitl-universal-framework-workflow.jpg'
         ]
     }
   },
