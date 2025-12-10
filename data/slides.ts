@@ -302,7 +302,10 @@ export const slides: SlideData[] = [
       { title: 'Turn process into a system', text: 'Prototype website + documentation' },
       { title: 'Strengthen creative decision-making', text: 'Thresholds improved clarity and integrity' }
     ],
-    visualType: 'none'
+      visualType: 'split-image',
+    visualMeta: {
+      image: '/HITL-Swimlane-Final-1.png'
+    }
   },
   {
     id: '21',
