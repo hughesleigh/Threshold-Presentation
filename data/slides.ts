@@ -304,7 +304,7 @@ export const slides: SlideData[] = [
     ],
       visualType: 'split-image',
     visualMeta: {
-      image: '/HITL-Swimlane-Final-1.png'
+      image: '/hitl-fw-swimlane-final.jpg'
     }
   },
   {
