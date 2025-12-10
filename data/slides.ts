@@ -67,7 +67,7 @@ export const slides: SlideData[] = [
       { title: 'Jagged Frontier (Dell\'Acqua)', text: 'AI performs well only inside capability boundaries' },
       { title: 'Moral Crumple Zones (Elish)', text: 'Humans absorb blame when AI fails' },
       { title: 'Human-Centered AI (Shneiderman)', text: 'AI should amplify, not replace' },
-      { text: 'Plus support from Bender, Boussioux, Skitka, and others' }
+      { text: 'Additional support from scholars in the field' }
     ]
   },
   {
