@@ -232,11 +232,11 @@ export const slides: SlideData[] = [
     id: '16',
     layout: 'standard',
     title: 'The LLM Limitation',
-    subtitle: 'Pattern-Maximizers, Not Pattern-Separators',
+    subtitle: 'Pattern-Maximizers, \nNot Pattern-Separators',
     bullets: [
       { text: 'AI excels at recognizing patterns' },
       { text: 'AI struggles to maintain ambiguity or differentiate strategic possibilities' },
-      { title: 'Solution', text: 'Split Stage 1B → AI extracts data; humans \ninterpret meaning' }
+      { title: 'Solution', text: 'Split Stage 1B → AI extracts data; \nhumans interpret meaning' }
     ],
      visualType: 'carousel',
     visualMeta: {
@@ -319,7 +319,7 @@ export const slides: SlideData[] = [
   {
     id: '22',
     layout: 'standard',
-    title: 'Reflection: What Fell Short / Future Refinements',
+    title: 'Reflection: What Fell Short / \nFuture Refinements',
     bullets: [
       { text: 'Prototype site needs full functionality' },
       { text: 'Want external designer testing' },
