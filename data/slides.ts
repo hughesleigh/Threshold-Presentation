@@ -295,7 +295,7 @@ export const slides: SlideData[] = [
     id: '20',
     layout: 'standard',
     title: 'Learning Objectives',
-    subtitle: 'What I aimed to learn → What I demonstrated',
+    subtitle: 'What I aimed to learn → \nWhat I demonstrated',
     bullets: [
       { title: 'Build a research-backed workflow', text: 'Validated through testing' },
       { title: 'Understand AI boundaries', text: 'Identified structural model limits' },
